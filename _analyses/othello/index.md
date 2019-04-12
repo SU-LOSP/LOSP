@@ -612,3 +612,20 @@ Consider the importance of deception and how this could affect these graph resul
 > “Oh, the more angel she, and you the blacker devil!” - Emilia
 <figcaption>(Act 5, Scene 2)</figcaption>
 </figure>
+
+
+# Looking into Death in Othello
+
+1)	Our AntConc concordance plot showed that the words ‘kill’ and ‘murder’ occur exclusively in the second half of the tragedy where the actual murders take place. This suggests that the murder that the murders were not planned and perhaps spur of the moment as there is no previous mention therefor no discussion or plotting of the murders prior to them occurring.
+
+
+
+2)	The results from our word cloud generated through AntConc showed that ‘wife’ ‘whore’ and ‘strumpet’ are significant in the plays. This is interesting as they are female focused words. “She” was also the most significantly used pronoun and more likely to be used than other plays which showed that the discussion of women and the act of women being referred to is prominent in the play. Because the two leading female characters die, we investigated these words further with 
+
+![Word  Cloud](img3.png)
+
+
+
+3)	The results of investigating the words ‘wife’, ‘strumpet’ and ‘whore’ showed that the word ‘wife’ is used more sparsely towards the end of the play whereas, the use of the derogatory words ‘strumpet’ and ‘whore’ are used exclusively in the last half of the play when the deaths of the two women occur.  This shows that there is a sense of animosity towards the female characters of the tragedy in its second half. 
+
+![AntConc](img4.png)
