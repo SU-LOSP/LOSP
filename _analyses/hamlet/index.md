@@ -578,3 +578,20 @@ programmers does have ample potential for deep analysis.
 [^1]: Image retrieved from
     <https://io9.gizmodo.com/an-infographic-that-keeps-track-of-all-of-shakespeares-1534516437>,
     2018
+    
+**Looking into Death in Hamlet and Othello**
+==================================================== 
+1)	Compared to the amount of murder that occurs place in the tragedy AntConc showed that there is surprisingly few referrals to verbs relating to death i.e. murder kill or their derivatives. This lack of active words relating to death suggests that the text has a certain passivity towards death especially when compared to other tragedies. Othello for example has almost twice the hit rate of the word kill in comparison, despite having fewer deaths and murders.
+
+<figure>
+<img src="media/img1.png" />
+</figure>
+
+2)	Our Ubiquity results further proved the passive attitude Hamlet has as when we examined the scenes where murder and death occur in both Othello and Hamlet had a far lower rate of negative emotion.
+
+<figure>
+<img src="media/img2.png" />
+</figure>
+
+3)	Our WordHoard results showed that the word ‘player’ was of significance. The noun suggests a calculated and strategic attitude as identified by a group who had taken the class previously. However, we felt this further tied into our idea on how Hamlet portrays death with less emotion. We found using AntConc once more that hits on our concordance plot of ‘player’ generally line up with the hits in our concordance plot of the word ‘murder’. Which suggests that Hamlet conveys a more game-like calculated attitude towards death and murder rather than an emotional one. 
+
