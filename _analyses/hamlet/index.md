@@ -579,7 +579,7 @@ programmers does have ample potential for deep analysis.
     <https://io9.gizmodo.com/an-infographic-that-keeps-track-of-all-of-shakespeares-1534516437>,
     2018
     
-**Looking into Death in Hamlet and Othello**
+**Looking into Death in Hamlet**
 ==================================================== 
 1)	Compared to the amount of murder that occurs place in the tragedy AntConc showed that there is surprisingly few referrals to verbs relating to death i.e. murder kill or their derivatives. This lack of active words relating to death suggests that the text has a certain passivity towards death especially when compared to other tragedies. Othello for example has almost twice the hit rate of the word kill in comparison, despite having fewer deaths and murders.
 
