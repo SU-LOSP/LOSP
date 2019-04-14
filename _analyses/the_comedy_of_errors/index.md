@@ -40,7 +40,7 @@ So I, to find a mother and a brother,
 In quest of them unhappy, lose myself.” (Act 1, Scene 2)
 
 <figure>
-<img src ="media/image1.png"/>
+<img src ="/media/image1.png" />
 </figure>
 
 As shown in Figure 1, “I” is consistently used more than “we” throughout 
@@ -67,7 +67,7 @@ another” illustrates an acceptance of their new homosocial relationship and
 an acceptance of their identities by those around them.
 
 <figure>
-<img src="media/image2.png" />
+<img src="/media/image2.png" />
 </figure>
 
 Looking specifically at the Antipholus twins (Figure 2), we can see the 
@@ -86,7 +86,7 @@ his twin which means that in the final scenes it is Antipholus of Ephesus
 who must defend his identity in order to reclaim it. 
 
 <figure>
-<img src ="media/image3.png" />
+<img src ="/media/image3.png" />
 </figure>
 
 The Dromio twins have perhaps the most illustrative example of how the use 
@@ -120,7 +120,7 @@ The analysis so far has focused solely on the frequency of “I” usage in
 Comedy of Errors, but not on how “I” is used in the play. 
 
 <figure>
-<img src="media/image4.png" />
+<img src="/media/image4.png" />
 </figure>
 
 Figure 4 illustrates the most frequent bigram usage between the two central 
