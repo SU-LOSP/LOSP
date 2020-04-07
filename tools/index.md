@@ -18,6 +18,14 @@ literature the Folger Shakespeare Library provides.
 
 Pre-processed results are also available [here](/assets/folgerhs-results.zip).
 
+## [Male&FemaleEntries.py](/tools/Male&FemaleEntries.py)
+
+This is a python script I created that loops through every line in a given text
+and counts the number of times males speak and the number of times females speak and store them in
+the appropriate variables. It then created a graph from these values.
+
+This requires the 'matplotlib' Python module to draw the graph.
+
 ## [characters.py](/tools/characters.py)
 
 A little Python 3 script we created that fetches a Shakespeare play from
