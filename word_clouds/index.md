@@ -36,3 +36,7 @@ investigate further.
 # A Midsummer Night's Dream
 [![A Midsummer Night's Dream word cloud](a_midsummer_nights_dream.png)](/analyses/a_mid_summer_nights_dream)
 
+# Love's Labour's Lost
+[![Love's Labour's Lost word cloud](lll1.png)](/analyses/loves_labours_lost)
+
+[![Love's Labour's Lost word cloud](lll2.png)](/analyses/loves_labours_lost)
