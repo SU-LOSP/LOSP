@@ -66,3 +66,7 @@ To deepen our analysis of the play, we created a java program which would sepera
 
 [Berowne](berowne.txt)
 
+[Rosaline](rosaline.txt)
+
+[Jaquenetta](jaquenetta.txt)
+
