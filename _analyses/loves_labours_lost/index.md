@@ -1,3 +1,19 @@
+---
+title: Love's Labour's Lost
+permalink:/analyses/lll/
+read_play: https://www.folgerdigitaltexts.org/download/txt/LLL.txt
+year: 1597
+summary: A King and his friends taking an oath to dedicate themselves to a life of study and avoid the company of women for three years
+---
+
+Love’s Labour’s Lost is one of Shakespeare’s earliest comedies focusing on the story of a King and his friends taking an oath to dedicate themselves to a life of study and avoid the company of women for three years. The three prominent themes within Love’s Labour’s Lost are gender, friendship and loyalty. The theme that we are most interested with is gender as it is the theme that our question deals with. 
+
+**Wordhoard Analysis**
+======================
+WordHoard was a good starting point for our research as it is a tool which allows us to compare the frequencies of different words within different text files. This will allow us to see which words are the most significant within the plays.
+
+<figure>
+<img src="media/image1.png"/>
 </figure>
 
 <figure>
@@ -15,9 +31,7 @@ These are the results that we received from WordHoard when we used it to analyse
 </figure>
 
 According to the Woudhuysen edition, LLL uses ‘Fair’ with no fixed meaning and relates to ‘perjury’, more than any other play by Shakespeare. Through concordance plots we were able to prove:
-
 •	‘Perjury’ is an important theme, but oath is far more significant
-
 •	‘Fair’ will be covered in the next slide’s analysis...
 
 
@@ -44,3 +58,4 @@ Julius Caesar: history, bureaucratic deception involved in action.
 Measure for Measure: tragic comedy, centred around a nun avoiding abstinence for her brother’s sake, opposite of the oath sworn by the King and his followers in LLL.
 The Merry Wives of Windsor: comedy about chasing seduction for personal gain.
 Titus Andronicus: tragedy about a noble power shift, with a prominent female character rising in social rank.
+
