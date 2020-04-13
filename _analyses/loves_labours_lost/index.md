@@ -1,6 +1,6 @@
 ---
 title: Love's Labour's Lost
-permalink:/analyses/lll/
+permalink: /analyses/loves_labours_lost/
 read_play: https://www.folgerdigitaltexts.org/download/txt/LLL.txt
 year: 1597
 summary: A King and his friends taking an oath to dedicate themselves to a life of study and avoid the company of women for three years
