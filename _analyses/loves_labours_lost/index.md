@@ -59,3 +59,10 @@ Measure for Measure: tragic comedy, centred around a nun avoiding abstinence for
 The Merry Wives of Windsor: comedy about chasing seduction for personal gain.
 Titus Andronicus: tragedy about a noble power shift, with a prominent female character rising in social rank.
 
+**Character's Dialogue**
+========================
+
+To deepen our analysis of the play, we created a java program which would seperate the dialogue of several different characters. The text files generated from the program can be accessed below:
+
+[Berowne](berowne.txt)
+
