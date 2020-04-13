@@ -13,11 +13,11 @@ Love’s Labour’s Lost is one of Shakespeare’s earliest comedies focusing on
 WordHoard was a good starting point for our research as it is a tool which allows us to compare the frequencies of different words within different text files. This will allow us to see which words are the most significant within the plays.
 
 <figure>
-<img src="media/image1.png"/>
+<img src="image1.png"/>
 </figure>
 
 <figure>
-<img src="media/image2.png"/>
+<img src="image2.png"/>
 </figure>
 
 These are the results that we received from WordHoard when we used it to analyse which words occurred most frequently in Love’s Labour’s Lost. We found it surprising and intriguing that many female pronouns, or words which are associated with females, which motivated us to explore the theme of gender within the play.
@@ -27,7 +27,7 @@ These are the results that we received from WordHoard when we used it to analyse
 ====================
 
 <figure>
-<img src="media/image3.png"/>
+<img src="image3.png"/>
 </figure>
 
 According to the Woudhuysen edition, LLL uses ‘Fair’ with no fixed meaning and relates to ‘perjury’, more than any other play by Shakespeare. Through concordance plots we were able to prove:
@@ -41,7 +41,7 @@ According to the Woudhuysen edition, LLL uses ‘Fair’ with no fixed meaning a
 We ran several plays in comparison with LLL, the graph backs up Woudhuysen’s edition identifying ‘fair’ as being used with no fixed definition more so than any other work of Shakespeare.
 
 <figure>
-<img src="media/image4.png"/>
+<img src="image4.png"/>
 </figure>
 
 Reason Forward: The speaker or writer leads the audience through his or her sequence of thoughts.
